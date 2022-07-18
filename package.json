@@ -1,0 +1,25 @@
+{
+  "name": "projeto-bio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielG-s/Projeto-Bio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielG-s/Projeto-Bio/issues"
+  },
+  "homepage": "https://github.com/DanielG-s/Projeto-Bio#readme",
+  "dependencies": {
+    "next": "^12.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
