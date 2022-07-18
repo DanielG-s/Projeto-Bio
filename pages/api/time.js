@@ -1,8 +1,8 @@
-function tempo(request,response){
+function Time(request,response){
    const dynamicDate = new Date();
 
    response.json({
-    
+
      date: dynamicDate.toGMTString()
 
 
@@ -11,3 +11,5 @@ function tempo(request,response){
 
 
 }
+
+export default Time
